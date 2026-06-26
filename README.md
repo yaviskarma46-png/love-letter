@@ -14,6 +14,8 @@ hearts. 🎯❤️
 
 ### ▶︎ **[Open the live demo →](https://hasib41.github.io/love-letter/)**
 
+<sub>by <a href="https://www.youtube.com/@CodeChill_a"><b>Code &amp; Chill</b></a> 💙</sub>
+
 ![Preview of the love letter page](preview.jpg)
 
 ---
@@ -99,4 +101,11 @@ It's just static files, so it hosts anywhere with no config:
 
 ---
 
-<sub>Made with love.</sub>
+<a href="https://www.youtube.com/@CodeChill_a">
+  <img src="logo.png" alt="Code &amp; Chill" width="56" align="left" hspace="10" />
+</a>
+
+**Made with love by [Code &amp; Chill](https://www.youtube.com/@CodeChill_a).**
+If you build something with it, a ⭐ and a subscribe make my day. 💙
+
+<br clear="left" />
